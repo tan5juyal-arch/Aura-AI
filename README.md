@@ -1,6 +1,6 @@
-# NeuroLens – Digital Body Language Analyser
+# Aura AI – Digital Body Language Analyser
 
-NeuroLens is an AI-powered web application that analyzes meeting transcripts to understand
+Aura AI is an AI-powered web application that analyzes meeting transcripts to understand
 digital body language and communication patterns.
 
 ## Features
