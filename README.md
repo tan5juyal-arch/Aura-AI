@@ -12,5 +12,3 @@ digital body language and communication patterns.
 - Google Gemini API
 - Firebase Hosting (optional)
 
-## Team
-Hackathon Project
