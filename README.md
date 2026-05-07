@@ -1,5 +1,6 @@
 # Aura AI – Digital Body Language Analyser
 
+Live Demo : https://auraai-teal.vercel.app/
 Aura AI is an AI-powered web application that analyzes meeting transcripts to understand
 digital body language and communication patterns.
 
